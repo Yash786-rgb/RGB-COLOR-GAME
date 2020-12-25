@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/RGB-Color-Game/static/js/main.2a279934.chunk.js",
+    "main.js.map": "/RGB-Color-Game/static/js/main.2a279934.chunk.js.map",
+    "runtime-main.js": "/RGB-Color-Game/static/js/runtime-main.0ef4909f.js",
+    "runtime-main.js.map": "/RGB-Color-Game/static/js/runtime-main.0ef4909f.js.map",
+    "static/js/2.8d70d023.chunk.js": "/RGB-Color-Game/static/js/2.8d70d023.chunk.js",
+    "static/js/2.8d70d023.chunk.js.map": "/RGB-Color-Game/static/js/2.8d70d023.chunk.js.map",
+    "index.html": "/RGB-Color-Game/index.html",
+    "precache-manifest.5a7872aeafe7c6b8c72dec01d933bf7e.js": "/RGB-Color-Game/precache-manifest.5a7872aeafe7c6b8c72dec01d933bf7e.js",
+    "service-worker.js": "/RGB-Color-Game/service-worker.js",
+    "static/js/2.8d70d023.chunk.js.LICENSE.txt": "/RGB-Color-Game/static/js/2.8d70d023.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ef4909f.js",
+    "static/js/2.8d70d023.chunk.js",
+    "static/js/main.2a279934.chunk.js"
+  ]
+}

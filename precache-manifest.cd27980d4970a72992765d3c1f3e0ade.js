@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d979d597c0ea885e6d19540cda12491",
+    "revision": "96fe365b5d03009ce642c4be3eecbb61",
     "url": "/RGB-Color-Game/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RGB-Color-Game/static/js/2.8d70d023.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "141d8466c2bf753a635f",
-    "url": "/RGB-Color-Game/static/js/main.2a279934.chunk.js"
+    "revision": "a6b3e57adcd5422bf7dc",
+    "url": "/RGB-Color-Game/static/js/main.16b24199.chunk.js"
   },
   {
     "revision": "0e5b879456809554518e",
